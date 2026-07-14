@@ -1,0 +1,348 @@
+Instruction Tuning – Practical Exercises
+
+Exercise 1: Customer Reminder Email
+
+Subject: Software License Renewal Reminder
+
+Dear Customer,
+
+This is a friendly reminder that your software license will expire in 7 days. To avoid any interruption in service, please renew your license before the expiry date.
+
+To renew:
+1. Log in to your account.
+2. Go to the License section.
+3. Select Renew License and complete the payment.
+
+If you need any assistance, please contact our support team at support@company.com or call +1-800-123-4567.
+
+Thank you for choosing our services.
+
+--------------------------------------------------
+
+Exercise 2: Internal Announcement
+
+Subject: Mandatory Cybersecurity Training
+
+Dear Team,
+
+We are pleased to announce a mandatory cybersecurity training session for all employees on 20 July 2026. The training will be conducted from 10:00 AM to 12:00 PM and will cover password security, phishing awareness, safe internet practices, and data protection. This session is designed to strengthen our organization's security and help everyone identify and prevent cyber threats effectively. Attendance is compulsory for all staff members. Please ensure you join on time and participate actively throughout the session. Thank you for your commitment to maintaining a secure workplace. Together, we can create a safer digital environment for everyone.
+
+--------------------------------------------------
+
+Exercise 3: Product Description
+
+Our time-tracking SaaS tool helps startups monitor employee work hours, manage projects, and improve productivity with an easy-to-use interface.
+
+The platform provides real-time reports, automatic timesheets, project tracking, and team collaboration features, helping businesses save time and reduce manual work.
+
+Designed specifically for startups, it is affordable, simple to use, and supports smarter decision-making through accurate work insights.
+
+--------------------------------------------------
+
+Exercise 4: Meeting Summary
+
+- Finalized the project timeline and assigned responsibilities.
+- Approved the new website design for development.
+- Marketing team will prepare the product launch campaign.
+- Development team will complete testing by Friday.
+- Next review meeting is scheduled for Monday.
+
+--------------------------------------------------
+
+Exercise 5: FAQ Creation
+
+Q1. How can I secure my mobile banking account?
+Use a strong password, enable two-factor authentication, and never share your login details.
+
+Q2. What should I do if I forget my password?
+Use the "Forgot Password" option and follow the verification steps.
+
+Q3. Why is my account temporarily locked?
+Multiple failed login attempts can temporarily lock your account for security reasons.
+
+Q4. How do I report unauthorized login activity?
+Immediately contact customer support and change your password.
+
+==================================================
+
+Markdown Prompting – Practical Exercises
+
+Exercise 1: Blog Outline
+
+# Benefits of Cloud Computing
+
+## Introduction
+Overview of cloud computing and its importance.
+
+## Benefits
+- Cost savings
+- Scalability
+- Security
+- Remote access
+
+## Use Cases
+- Business applications
+- Data storage
+- Software development
+- Online collaboration
+
+## Conclusion
+Summary of key advantages.
+
+--------------------------------------------------
+
+Exercise 2: Product Feature List
+
+# Project Management Tool
+
+## Key Features
+
+- Task Management
+- Team Collaboration
+- File Sharing
+- Time Tracking
+- Project Reports
+- Notifications
+- Dashboard Analytics
+
+--------------------------------------------------
+
+Exercise 3: Training Agenda
+
+# One-Day AI Training Agenda
+
+## 09:00 - 09:30
+Introduction to Artificial Intelligence
+
+## 09:30 - 11:00
+Prompt Engineering Basics
+
+## 11:00 - 11:15
+Tea Break
+
+## 11:15 - 01:00
+AI Tools and Practical Demonstration
+
+## 01:00 - 02:00
+Lunch Break
+
+## 02:00 - 03:30
+Hands-on AI Exercises
+
+## 03:30 - 04:30
+Project Discussion
+
+## 04:30 - 05:00
+Q&A and Feedback
+
+--------------------------------------------------
+
+Exercise 4: Case Study Template
+
+# Case Study
+
+## Client
+Company Name
+
+## Problem
+Describe the business challenge.
+
+## Solution
+Explain the implemented solution.
+
+## Result
+Mention measurable outcomes and improvements.
+
+--------------------------------------------------
+
+Exercise 5: FAQ Page
+
+# Frequently Asked Questions
+
+## What payment methods do you accept?
+We accept credit cards, debit cards, UPI, and net banking.
+
+## How can I track my order?
+Track your order using the tracking link in your email.
+
+## Can I return a product?
+Yes, products can be returned within the return policy period.
+
+## How long does shipping take?
+Shipping usually takes 3–7 business days.
+
+## How can I contact customer support?
+You can contact us through email, phone, or live chat.
+
+==================================================
+
+Role Prompting – Practical Exercises
+
+Exercise 1: HR Policy Email
+
+Subject: Updated Work From Home Policy
+
+Dear Team,
+
+Starting next month, employees may work from home up to two days each week with manager approval. Please ensure availability during working hours, attend scheduled meetings, and maintain productivity. Thank you for your cooperation.
+
+--------------------------------------------------
+
+Exercise 2: Tech Support Reply
+
+Hello,
+
+We're sorry you're experiencing login issues. Please verify your username and password, clear your browser cache, and try again. If the problem continues, reset your password using the "Forgot Password" option. If you still cannot access your account, contact our support team with a screenshot of the error.
+
+--------------------------------------------------
+
+Exercise 3: Marketing Copy
+
+Reach your fitness goals with our all-in-one fitness app. Track workouts, monitor progress, follow personalized plans, and stay motivated every day. Download now and start your transformation today.
+
+--------------------------------------------------
+
+Exercise 4: Trainer Explanation
+
+Prompt Engineering is the process of writing clear instructions for AI so it produces better answers. A good prompt tells the AI exactly what you need. For example, instead of asking "Write about AI," you can ask "Write a 100-word article explaining AI for beginners."
+
+--------------------------------------------------
+
+Exercise 5: CEO Announcement
+
+Dear Team,
+
+I am excited to announce that our company is expanding into new markets and launching additional services this year. This growth reflects our commitment to innovation and customer satisfaction. Thank you for your dedication as we continue building a stronger future together.
+
+==================================================
+
+Style Transfer Prompting – Practical Exercises
+
+Exercise 1: Formal → Casual
+
+Original:
+Please submit the report by EOD.
+
+Casual:
+Hey! Could you please send me the report before the end of the day? Thanks!
+
+--------------------------------------------------
+
+Exercise 2: Technical → Simple
+
+Simplified Version:
+
+Cloud computing lets you store your files and use software online instead of keeping everything on your computer. This allows you to access your data anytime from any device with internet access.
+
+--------------------------------------------------
+
+Exercise 3: Neutral → Promotional
+
+Promotional Version:
+
+Experience the power of our amazing product that makes your work faster, easier, and more efficient. Upgrade today and enjoy smarter performance with outstanding results.
+
+--------------------------------------------------
+
+Exercise 4: Corporate → Gen Z
+
+Gen Z Version:
+
+Big news! We're growing bigger, launching cool new opportunities, and we can't wait to have you with us on this exciting journey. Stay tuned!
+
+--------------------------------------------------
+
+Exercise 5: Long → Crisp
+
+Our software simplifies business operations. It saves time by automating repetitive tasks. This helps teams work faster and more efficiently.
+
+==================================================
+
+Delimiters Prompting – Practical Exercises
+
+Exercise 1: Text Summary
+
+Instructions:
+<<<
+Summarize the following text into 5 bullet points.
+>>>
+
+Input:
+<<<
+Cloud computing allows businesses to store data online, improve collaboration, reduce infrastructure costs, increase flexibility, and access applications from anywhere.
+>>>
+
+Output:
+- Stores data online.
+- Reduces infrastructure costs.
+- Improves collaboration.
+- Provides remote access.
+- Increases business flexibility.
+
+--------------------------------------------------
+
+Exercise 2: Product Description + Tone
+
+Product Details:
+<<<
+Wireless Bluetooth Earbuds with Noise Cancellation and 30-hour Battery Backup.
+>>>
+
+Tone:
+<<<
+Friendly and persuasive.
+>>>
+
+Output:
+Enjoy crystal-clear sound with our wireless Bluetooth earbuds. Featuring noise cancellation and up to 30 hours of battery life, they're the perfect companion for music, work, and travel.
+
+--------------------------------------------------
+
+Exercise 3: Q&A Generation
+
+Topic:
+<<<
+Python Programming
+>>>
+
+Output:
+1. What is Python?
+2. What are Python's key features?
+3. What is the difference between a list and a tuple?
+4. What are Python functions?
+5. What are Python modules?
+
+--------------------------------------------------
+
+Exercise 4: Multi-Output Task
+
+Headline:
+<<<
+AI Improves Workplace Productivity
+>>>
+
+Summary:
+<<<
+Artificial Intelligence helps businesses automate repetitive tasks, improve decision-making, increase productivity, reduce errors, and allow employees to focus on more valuable work.
+>>>
+
+--------------------------------------------------
+
+Exercise 5: Policy Analysis
+
+Policy Document:
+<<<
+Employees must wear ID cards, follow office timings, maintain data confidentiality, and report security incidents immediately.
+>>>
+
+Summary:
+Employees must follow workplace security and attendance policies.
+
+Key Rules:
+- Wear ID cards.
+- Follow office timings.
+- Maintain confidentiality.
+- Report security incidents immediately.
+
+Risks:
+Failure to follow the policy may result in security breaches, disciplinary action, and operational issues.
