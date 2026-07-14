@@ -1,0 +1,259 @@
+CHAIN-OF-THOUGHT (CoT) PROMPTING
+
+Exercise 1: Simple Reasoning
+
+Answer:
+
+Step 1:
+A number is divisible by 9 if the sum of its digits is divisible by 9.
+
+Step 2:
+45 → 4 + 5 = 9
+
+Step 3:
+Since 9 is divisible by 9, 45 is divisible by 9.
+
+Final Answer:
+Yes, 45 is divisible by 9.
+
+--------------------------------------------------
+
+Exercise 2: Marketing Message Evaluation
+
+Answer:
+
+1. Target Audience:
+Business owners, managers, and companies looking to improve productivity.
+
+2. Missing Information:
+- How productivity improves
+- Features of the ERP
+- Business benefits
+- Supporting facts or results
+
+3. Is the message convincing?
+No. It is too general and does not explain the value.
+
+4. Improved Statement:
+Our cloud-based ERP automates finance, inventory, sales, and HR, helping businesses reduce manual work and improve productivity.
+
+--------------------------------------------------
+
+Exercise 3: Feature-to-Benefit Thinking
+
+Answer:
+
+1. Cloud-based means the ERP is hosted online and can be accessed from anywhere using the internet.
+
+2. Business Benefits:
+- Employees can work remotely.
+- No expensive servers or maintenance are required.
+
+3. Conclusion:
+A cloud-based ERP improves flexibility, reduces costs, and makes business operations more efficient.
+
+--------------------------------------------------
+
+Exercise 4: Decision Making
+
+Answer:
+
+1. Limitations of Excel:
+- Manual data entry
+- More chances of errors
+- Difficult collaboration
+- Limited automation
+
+2. Advantages of ERP:
+- Automated processes
+- Real-time data
+- Centralized information
+- Better reporting
+
+3. Comparison:
+Excel is suitable for small tasks, while ERP manages complete business operations efficiently.
+
+4. Final Decision:
+A startup planning to grow should use ERP software because it improves productivity and reduces errors.
+
+--------------------------------------------------
+
+Exercise 5: Problem Analysis
+
+Answer:
+
+1. Root Cause:
+Manual data entry takes too much time.
+
+2. How Delays Occur:
+Employees repeatedly enter data, make mistakes, and spend extra time correcting errors.
+
+3. Logical Solution:
+Implement an ERP system to automate data entry and integrate all departments.
+
+Conclusion:
+Automation reduces delays, improves accuracy, and increases efficiency.
+
+==================================================
+
+ReAct (Reason + Act) PROMPTING
+
+Exercise 1: Weak Statement Improvement
+
+Answer:
+
+1. Analysis:
+"Our software is good" is too vague and does not explain any value.
+
+2. Missing Information:
+- Features
+- Benefits
+- Target audience
+- Results
+
+3. Improved Statement:
+Our ERP software automates business operations, reduces manual work, and improves productivity.
+
+--------------------------------------------------
+
+Exercise 2: Resume Enhancement
+
+Answer:
+
+1. Analysis:
+The sentence lacks action, tools, and measurable results.
+
+2. Improved Resume Line:
+Performed manual and automated software testing using Selenium, identified bugs, and improved application quality.
+
+--------------------------------------------------
+
+Exercise 3: CTA Optimization
+
+Answer:
+
+1. Analysis:
+"Click here" does not provide any benefit or urgency.
+
+2. Improved CTA:
+Book Your Free ERP Demo Today and Boost Your Business Productivity.
+
+--------------------------------------------------
+
+Exercise 4: Email Content Fix
+
+Answer:
+
+1. Analysis:
+The statement focuses only on the product and not on customer benefits.
+
+2. Target User:
+Business owners and managers.
+
+3. Improved Email Line:
+Streamline your business operations with our cloud-based ERP solution and improve efficiency while reducing costs.
+
+--------------------------------------------------
+
+Exercise 5: Bug Description Rewrite
+
+Answer:
+
+1. Missing Information:
+- Page affected
+- Browser used
+- Steps to reproduce
+- Expected result
+- Actual result
+
+2. Improved Bug Report:
+The Dashboard page takes about 15 seconds to load after login in Google Chrome. Expected loading time is under 3 seconds. The issue occurs every time after clicking the Dashboard menu.
+
+==================================================
+
+SELF-CONSISTENCY PROMPTING
+
+Exercise 1: Short Description Refinement
+
+Answer:
+
+Version 1:
+ERP software helps businesses manage operations.
+
+Review:
+The description is too short and does not explain the benefits.
+
+Improved Version:
+ERP software integrates finance, sales, inventory, and HR into one system, improving efficiency, reducing errors, and supporting better business decisions.
+
+--------------------------------------------------
+
+Exercise 2: FAQ Answer Quality
+
+Answer:
+
+Version 1:
+ERP helps businesses manage daily operations.
+
+Version 2:
+ERP connects departments like finance, inventory, HR, and sales into one system.
+
+Version 3:
+ERP automates business processes, improves productivity, and provides real-time business information.
+
+Best Answer:
+Version 3
+
+Reason:
+It explains both the functionality and benefits clearly.
+
+Refined Version:
+ERP software automates business processes, connects all departments, and provides real-time insights that improve productivity and decision-making.
+
+--------------------------------------------------
+
+Exercise 3: Email Subject Lines
+
+Answer:
+
+Version 1:
+ERP Demo Invitation
+
+Version 2:
+See How ERP Can Transform Your Business – Free Demo
+
+Evaluation:
+Version 2 is more attractive because it highlights the benefit.
+
+Final Subject:
+Boost Productivity with Our ERP – Book Your Free Demo Today
+
+--------------------------------------------------
+
+Exercise 4: Technical Explanation Simplification
+
+Answer:
+
+Original Explanation:
+Cloud computing is the on-demand delivery of computing resources over the internet.
+
+Review:
+The explanation is technical and difficult for beginners.
+
+Simplified Version:
+Cloud computing means storing files and using software online instead of on your computer, so you can access them anytime and from anywhere.
+
+--------------------------------------------------
+
+Exercise 5: Role-Based Messaging
+
+Answer:
+
+Initial Version:
+ERP improves business management.
+
+Review:
+The statement is too general and does not focus on managers.
+
+Improved Version:
+ERP helps managers monitor operations, track inventory, generate real-time reports, and make faster, data-driven decisions while improving team productivity.
