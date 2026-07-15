@@ -1,0 +1,84 @@
+Exercise 1 – RTICFA Framework
+
+Prompt:
+
+Role: You are an experienced content writer.
+Task: Write an engaging introduction for a blog about a productivity mobile app.
+Input: The app helps users organize daily tasks, set reminders, manage schedules, and improve productivity.
+Context: The introduction will appear on the company's official blog to introduce the app to potential users.
+Format: Write one introductory paragraph of about 120 words.
+Audience: Beginners who want an easy way to manage their daily tasks.
+
+--------------------------------------------------
+
+Exercise 2 – ERA Framework
+
+Prompt:
+
+Expectation: Generate a polite and professional follow-up email that thanks the client for attending the meeting, summarizes the discussion, and clearly mentions the next steps.
+Role: Act as a professional business communication specialist.
+Action: Write a follow-up email after a client meeting.
+
+--------------------------------------------------
+
+Exercise 3 – APEX Framework
+
+Prompt:
+
+Action: Write an Instagram post announcing the grand opening of a new café.
+Purpose: Attract local customers and encourage them to visit the café.
+Expectation: Use a friendly and promotional tone, keep the caption under 120 words, include relevant emojis, and end with a strong call-to-action inviting customers to visit.
+
+--------------------------------------------------
+
+Exercise 4 – TASK Framework
+
+Prompt:
+
+Task: Respond to a customer complaint about a delayed product delivery.
+Action: Apologize sincerely, explain the reason for the delay, provide a solution, and reassure the customer.
+Context: The delivery was delayed due to unexpected logistics issues, and the customer is frustrated because the order was needed urgently.
+
+--------------------------------------------------
+
+Exercise 5 – CARE Framework
+
+Prompt:
+
+Context: New employees are joining the company and need to understand the leave policy during onboarding.
+Action: Explain the company's leave policy using simple and easy-to-understand language.
+Result: Ensure new employees clearly understand the different types of leave and how to apply for them.
+Example: Include one simple example showing how an employee can request annual leave.
+
+--------------------------------------------------
+
+Exercise 6 – RISE Framework
+
+Prompt:
+
+Role: Act as an experienced technical trainer.
+Input: Explain the concept of an API.
+Steps: Explain what an API is, how it works, why it is useful, and where it is commonly used, using a step-by-step approach.
+Example: Include one real-world example or analogy that a non-technical person can easily understand.
+
+--------------------------------------------------
+
+Exercise 7 – CASE Framework
+
+Prompt:
+
+Context: A company is hiring fresh graduates for entry-level software engineer positions.
+Action: Generate HR interview questions.
+Scenario: The candidates are recent graduates with little or no professional experience.
+Example: Include a balanced mix of technical, behavioral, communication, and problem-solving questions.
+
+--------------------------------------------------
+
+Exercise 8 – ACRE Framework
+
+Prompt:
+
+Audience: Company employees.
+Context: The company will remain closed next Monday due to a public holiday.
+Request: Write a professional yet friendly internal announcement informing employees about the holiday and reminding them to complete urgent work beforehand.
+Example: Include a sample holiday announcement in an easy-to-read format.
